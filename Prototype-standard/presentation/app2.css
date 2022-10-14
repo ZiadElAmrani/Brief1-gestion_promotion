@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://i.postimg.cc/3wkfFH7h/jess-bailey-q10-VITr-VYUM-unsplash.jpg%22");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#containerUpdate {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
